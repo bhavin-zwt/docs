@@ -504,7 +504,7 @@ Creating Reusable Emails
 
 Mailers allow you to create reusable emails throughout your application. They
 can also be used to contain multiple email configurations in one location. This
-helps keep your code DRYer and keeps email configuration noise out of other
+helps keep your code dryer and keeps email configuration noise out of other
 areas in your application.
 
 In this example we will be creating a ``Mailer`` that contains user-related
